@@ -1,0 +1,20 @@
+{
+  "name": "nba-web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.4.1",
+    "d3-shotchart": "0.0.2",
+    "lodash": "^4.17.5",
+    "nba": "^4.2.2",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
